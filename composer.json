@@ -1,0 +1,17 @@
+{
+    "name": "skyline/viet-nam-phone-validator",
+    "description": "for validator string is a viet nam number phone",
+    "authors": [
+        {
+            "name": "doandinhtuan",
+            "email": "doantuan178@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+	"autoload": {
+		"psr-4": {
+			"SkylineBird\\PhoneValidator\\": "src/"
+		}
+	}
+}
